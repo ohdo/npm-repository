@@ -2051,11 +2051,6 @@
   dependencies:
     "find-up" "^4.0.0"
 
-"proxy-to@^1.1.0":
-  "integrity" "sha512-08G6yNg5M9v3S6Cm1Jen/RMlEoSXYCGngfRhWcb9xRlqL/U4hNTdikJKeOoSZsyYXH0EokHfmUMptyjgsUzWMw=="
-  "resolved" "https://registry.npmjs.org/proxy-to/-/proxy-to-1.1.0.tgz"
-  "version" "1.1.0"
-
 "punycode@^2.1.0":
   "integrity" "sha512-XRsRjdf+j5ml+y/6GKHPZbrF/8p2Yga0JPtdqTIY2Xe5ohJPD9saDJJLPvp9+NSBprVvevdXZybnj2cv8OEd0A=="
   "resolved" "https://registry.npmjs.org/punycode/-/punycode-2.1.1.tgz"
